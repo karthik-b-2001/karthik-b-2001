@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://karthik-domain.netlify.app/">Karthik</a></h1>
-<h3 align="center">Pursuing Master of Science in computer science at Northeastern University Alumni of R V college of Engineering</h3>
+<h3 align="center">Pursuing Master of Science in Computer Science at Northeastern University, Alumni of R V college of Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
