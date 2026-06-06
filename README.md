@@ -27,7 +27,7 @@ Focused on scalable systems and AI applications.
 **Links**
 
 [linkedin.com/in/karth1kb](https://linkedin.com/in/karth1kb) &nbsp;·&nbsp; [karthikbharadwajds@gmail.com](mailto:karthikbharadwajds@gmail.com)
-
+[https://karthik-b-2001.github.io/](https://karthik-b-2001.github.io/)
 ---
 
 ![](https://komarev.com/ghpvc/?username=karthik-b-2001&color=7c3aed&style=flat&label=profile+views)
