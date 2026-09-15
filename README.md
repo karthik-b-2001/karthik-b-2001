@@ -3,7 +3,6 @@
 MS Computer Science @ Northeastern University · 4.0 GPA  
 Previously shipped production systems at **zevvo** (zero to launch in 6 months) and **Digitide Solutions** (SaaS platform for AB-InBev, 1,000+ daily users)
 
-Currently building [VyasaGraph](https://github.com/karthik-b-2001/vyasagraph) — a knowledge graph and RAG chatbot over the Mahabharata.
 
 ---
 
